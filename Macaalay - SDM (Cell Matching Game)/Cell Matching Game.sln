@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Cell Matching Game", "Cell Matching Game\Cell Matching Game.vbproj", "{A5FFB49A-0E56-4443-BB93-5D03E5F2DE59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5FFB49A-0E56-4443-BB93-5D03E5F2DE59}.Debug|x86.ActiveCfg = Debug|x86
+		{A5FFB49A-0E56-4443-BB93-5D03E5F2DE59}.Debug|x86.Build.0 = Debug|x86
+		{A5FFB49A-0E56-4443-BB93-5D03E5F2DE59}.Release|x86.ActiveCfg = Release|x86
+		{A5FFB49A-0E56-4443-BB93-5D03E5F2DE59}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BB8822B-6F45-405E-8B99-3056A546D54C}
+	EndGlobalSection
+EndGlobal
